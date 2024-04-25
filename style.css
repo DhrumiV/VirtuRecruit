@@ -540,5 +540,7 @@ label {
 }
 
 button:hover {
-  background: #3e4b5c;
+  background: #bed2ec;
+  color: #0eb7b5;
 }
+
